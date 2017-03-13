@@ -1,5 +1,8 @@
 _repo: The-Vicomte-De-Bragelonne_2609
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -25,6 +28,8 @@ description: "The Vicomte of Bragelonne: Ten Years Later (French: Le Vicomte de 
   \ second and third volumes to third and fourth, with Ten Years Later becoming the\
   \ second volume. There are usually no volume-specific names in five-volume editions.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2609#The-Vicomte-De-Bragelonne
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
